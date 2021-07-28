@@ -1,0 +1,34 @@
+[
+    {
+        "Genero" : "M",
+        "Fnome" : "Joao",
+        "Lnome" : "Silva",
+        "Mail" : "joao@123.com",
+        "Pass" : "12345",
+        "End" : "Rua 10",
+        "City" : "sfddfafda" ,
+        "State" : "Texas" ,
+        "CEP" : "122222345",
+        "MobilePhone" : "341234512345",
+        "EndRef" : "Rua 11",
+        "DiaNas" : "22",
+        "MesNas" : "Junho",
+        "AnoNas" : "1999"
+    },
+    {
+    "Genero" : "F",
+    "Fnome" : "maria",
+    "Lnome" : "pereira",
+    "Mail" : "maria@456.com",
+    "Pass" : "67891",
+    "End" : "Rua 18",
+    "City" : "sfddfafda",
+    "State" : "Arizona",
+    "CEP" : "122222346",
+    "MobilePhone" : "341234512346",
+    "EndRef" : "Rua 15",
+    "DiaNas" : "29",
+    "MesNas" : "Marco",
+    "AnoNas" : "1997"
+    }
+]
